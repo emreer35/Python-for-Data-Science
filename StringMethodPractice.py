@@ -200,6 +200,22 @@ lines = [
     "name: Ali | age: 34 | city: Istanbul | smoker: True",
     "name: Ayşe | age: 29 | city: Ankara | smoker: False",
 ]
+
+patient = []
+for line in lines:
+    words_lines = {}
+    freq = line.split(' | ')
+    for n in freq:
+        key,value = n.split(": ")
+        if key == "age":
+            value = int(value)
+        elif key == "smoker":
+            value = True if value == "True" else False
+
+        words_lines[key] = value
+
+    patient.append(words_lines)
+patient
 # 👉 Bunları dolaşıp her satırı dict’e çevirip bir listeye atmayı dene:
 
 
