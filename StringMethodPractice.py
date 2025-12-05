@@ -210,6 +210,7 @@ for line in lines:
         if key == "age":
             value = int(value)
         elif key == "smoker":
+
             value = True if value == "True" else False
 
         words_lines[key] = value
