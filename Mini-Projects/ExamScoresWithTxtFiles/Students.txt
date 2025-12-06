@@ -1,0 +1,5 @@
+Name,Score,Passed
+Ali,85,yes
+Ayşe,40,no
+Mehmet,72,yes
+Zeynep,30,no

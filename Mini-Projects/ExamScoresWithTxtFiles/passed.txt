@@ -1,0 +1,6 @@
+Ali,85,yes
+Mehmet,72,yes
+Ali,85,yes
+Mehmet,72,yes
+Ali,85,yes
+Mehmet,72,yes

@@ -1,0 +1,15 @@
+[2025-12-06 10:00:01] INFO  - Application started
+[2025-12-06 10:00:05] INFO  - User logged in: emre
+[2025-12-06 10:01:10] DEBUG - Loading dashboard data
+[2025-12-06 10:01:12] INFO  - Dashboard loaded successfully
+[2025-12-06 10:02:00] WARN  - Slow response from API
+[2025-12-06 10:02:30] ERROR - Failed to fetch profile image
+[2025-12-06 10:03:05] INFO  - Retrying request...
+[2025-12-06 10:03:06] INFO  - Request succeeded
+[2025-12-06 10:04:15] DEBUG - Saving user settings
+[2025-12-06 10:04:16] INFO  - User settings saved
+[2025-12-06 10:05:00] INFO  - User logged out: emre
+[2025-12-06 10:06:10] INFO  - User logged in: admin
+[2025-12-06 10:07:20] DEBUG - Loading admin panel
+[2025-12-06 10:07:25] INFO  - Admin panel loaded
+[2025-12-06 10:08:00] INFO  - Application shutting down

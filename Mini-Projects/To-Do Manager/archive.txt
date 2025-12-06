@@ -1,0 +1,3 @@
+id;task;done
+2;Study Python;yes
+4;Finish Coursera homework;yes
