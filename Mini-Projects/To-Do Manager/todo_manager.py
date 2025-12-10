@@ -3,9 +3,6 @@
 # markDone → r+ kullan, seek + truncate
 # cleanDone → senin membership projesine çok benziyor
 # sadece done == yes olanlar archive.txt gibi bir yere gidecek
-from curses.ascii import isdigit
-
-from StringMethodPractice import words
 
 file = '/Users/emreer/Desktop/Python for Data Science with Coursera/Mini-Projects/To-Do Manager/todos.txt'
 
